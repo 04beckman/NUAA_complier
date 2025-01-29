@@ -1,0 +1,13 @@
+program id;
+const m:=0;
+var x,b;
+begin
+    read(b);
+    while b>=m do	
+        begin
+            if b>m then
+                x:=x+1;
+            b:=b-1
+        end;
+    write(x)
+end
