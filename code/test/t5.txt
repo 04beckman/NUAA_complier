@@ -1,7 +1,0 @@
-program id;
-const m:=1, n:=10;
-var x,y;
-
-begin
-    m:=2
-end

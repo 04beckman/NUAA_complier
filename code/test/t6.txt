@@ -1,5 +1,0 @@
-program NUAA;
-var a,b,c,d;
-begin
-	read a, b, c);
-end

@@ -1,0 +1,19 @@
+progrom NUAA nuaa nuAA;
+const a:=123,b:=213 c:=132;
+var d e f g
+procedure (get ha sa ,a);
+begin
+	g:=1
+end
+begin
+	d:=2;
+	e=1
+	f:=3;
+	read(x+y);
+	while m>n do
+		n := m+1
+	if a(b then then then
+		f=7
+	else
+		e:=8;
+end

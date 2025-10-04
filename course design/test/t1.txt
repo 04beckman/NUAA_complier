@@ -1,0 +1,5 @@
+program NUAA;
+var a,b,c,d;
+begin
+	f:=1
+end
